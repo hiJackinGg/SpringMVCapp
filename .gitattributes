@@ -1,1 +1,1 @@
-src/main/webapp linguist-vendored
+*.js linguist-language=Java
