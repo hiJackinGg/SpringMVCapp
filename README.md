@@ -1,5 +1,5 @@
 # SpringMVCapp
-<b><i>Description:</i></b> web mvc application.<br><br>
+<b><i>Description:</i></b> web mvc application. Implemented all the most popular features that web application usually have.<br><br>
 <b><i>Main technologies and features:</i></b><br>
 <ul>
 <li>Spring MVC<br></li>
